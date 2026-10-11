@@ -1,0 +1,6 @@
+run_name,run_id,n_estimators,max_depth,min_samples_leaf,seed,accuracy,f1_macro,precision_macro,recall_macro
+rf_trees100_depth8_leaf1_seed42,7c16affa562c444889612a01749d9a84,100,8,1,42,1.0,1.0,1.0,1.0
+rf_trees200_depth16_leaf2_seed42,e9a5718dbbdd499cbd259c87fce0f575,200,16,2,42,1.0,1.0,1.0,1.0
+rf_trees200_depth8_leaf1_seed42,26367e8e84c84bd5a3a93d0a57af32e1,200,8,1,42,1.0,1.0,1.0,1.0
+rf_trees300_depth12_leaf1_seed42,a9c4dc137bd5498e9bb61985c0fbcff2,300,12,1,42,1.0,1.0,1.0,1.0
+rf_trees400_depthnone_leaf3_seed42,ae31ffdda0b14acf96c4177cdd6eb4d7,400,none,3,42,1.0,1.0,1.0,1.0
